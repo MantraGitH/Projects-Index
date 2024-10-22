@@ -1,18 +1,3 @@
-Objetivo: Entender la importancia de utilizar Node.js, qué es y por qué es necesario para crear aplicaciones, apis y servicios.
-
-
-Node.js es un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor. es una herramienta poderosa para construir aplicaciones de servidor rápidas y escalables.
-
-
-Es de código abierto, multiplataforma(quiere decir que funciona en varias plataformas), es asíncrono con una entrada y salida de datos compuesta de una arquitectura que está orientada a eventos.
-
-Cuando se dice que Node.js está orientado a eventos, se refiere a que el sistema está diseñado para responder a diversas "señales" o "eventos" que ocurren en la aplicación. Este modelo de programación permite que Node.js maneje múltiples operaciones de manera eficiente sin necesidad de bloquear el proceso principal.
-
-
-Node.js y Google Chrome comparten el mismo motor de ejecución, que es el motor V8. V8 es un motor de JavaScript de alto rendimiento desarrollado por Google para el navegador Chrome. Fue diseñado para compilar código JavaScript a código máquina nativo, mejorando así la velocidad y eficiencia de la ejecución.
-
------------------------------------------------------------------------------------------------------------------------------
-
 Objective: Understand the importance of using Node.js, what it is, and why it is necessary for creating applications, APIs, and services.
 
 
